@@ -31,6 +31,7 @@ April is Sexual Assault Awareness Month — and with 36.4% of young adults repor
 ```bash
 git clone https://github.com/your-username/redtext-bot.git
 cd redtext-bot
+```
 
 💡 Built by Vanya Shrivastava to empower digital safety during Sexual Assault Awareness Month.
 🤖 AI safety logic powered by Claude and implemented with guidance from ChatGPT.
